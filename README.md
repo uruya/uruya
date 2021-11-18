@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uruya
 - 👀 I’m interested in sauna/baseball/drive
-- 🌱 I’m currently learning Ruby on Rails/
+- 🌱 I’m currently learning Python/Iot
 <!---- 📫 How to reach me twitter(@rin_aya6)/instagram(@ayaones_)
 
 
